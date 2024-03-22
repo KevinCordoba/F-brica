@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Recursos">
+        <file>ImagenesProyecto/conveyor.png</file>
+        <file>ImagenesProyecto/conveyor2.png</file>
+        <file>ImagenesProyecto/depot.png</file>
+        <file>ImagenesProyecto/factory.png</file>
+        <file>ImagenesProyecto/arteVacio.png</file>
+        <file>ImagenesProyecto/evil.png</file>
+        <file>ImagenesProyecto/amorCompleto.png</file>
+        <file>ImagenesProyecto/amorMedio.png</file>
+        <file>ImagenesProyecto/amorVacio.png</file>
+        <file>ImagenesProyecto/angel.png</file>
+        <file>ImagenesProyecto/arteCompleto.png</file>
+        <file>ImagenesProyecto/semaforo.png</file>
+        <file>ImagenesProyecto/bebeAfrodescendiente.png</file>
+        <file>ImagenesProyecto/bebeBadBunny.png</file>
+        <file>ImagenesProyecto/bebeCastano.png</file>
+        <file>ImagenesProyecto/bebeMoreno.png</file>
+        <file>ImagenesProyecto/bebePelirrojo.png</file>
+        <file>ImagenesProyecto/bebePink.png</file>
+        <file>ImagenesProyecto/bebePitufo.png</file>
+        <file>ImagenesProyecto/bebeRubio.png</file>
+        <file>ImagenesProyecto/archivo.png</file>
+    </qresource>
+</RCC>
